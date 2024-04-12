@@ -1,0 +1,16 @@
+{
+  "name": "dachs",
+  "version": "1.0.0",
+  "description": "Dynamisches API-Cross-Country-Handling-System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DHV",
+    "XC",
+    "API"
+  ],
+  "author": "Kai Wissel",
+  "license": "ISC"
+}
